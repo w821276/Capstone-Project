@@ -24,23 +24,14 @@ body {
     text-align: center;
     color: white;
   }
+  h3 {
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-size: 15px;
+    text-align: center;
+    color: white;
+  }
   p {
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    font-size: 12px;
-    text-align: center;
-    color: white;
-  
-  }
-  p2 {
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    font-size: 12px;
-    text-align: center;
-    color: white;
-  
-  }
-  p3 {
     text-transform: uppercase;
     letter-spacing: 2px;
     font-size: 12px;
