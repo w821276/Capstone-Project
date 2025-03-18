@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+    background: url(https://easy-peasy.ai/cdn-cgi/image/quality=80,format=auto,width=700/https://media.easy-peasy.ai/7f32c71b-2fe5-45d5-a73f-612c45c04bf1/ee81b8a5-331e-4063-bbc3-77a0052b2e8f.png); width: cover;
+    overflow: hidden;
+  }
+  h1 {
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-size: 15px;
+    text-align: center;
+    color: white;
+  }
+  p {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 12px;
+    text-align: center;
+    color: white;
